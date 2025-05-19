@@ -57,9 +57,3 @@ This project set reflects my ability to:
 
 ---
 
-## 👋 About Me
-
-I'm a recent graduate with a focus in **Data Science and Business Intelligence**, looking to apply my analytical and technical skills to real-world challenges in health, marketing, and environmental sectors.
-
-Feel free to browse each project folder for code, documentation, and results. Let’s connect!
-
